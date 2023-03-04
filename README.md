@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PREETI
-- 👀 I’m currently working on PYTHON
-- 🌱 I’m currently learning MACHINE LEARNING
+- 👀 I’m currently working on .Net and Angular
+- 🌱 I’m currently learning .Net and Angular
 - 💞️ I’m looking to collaborate on PROJECTS
 - 📫 How to reach me pp0932544@gmail.com
 
